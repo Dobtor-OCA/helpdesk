@@ -20,7 +20,6 @@
         'views/helpdesk_ticket.xml',
     ],
     "application": False,
-    "development_status": "Stable",
     "maintainers": [
         "nelsonramirezs",
         "max3903",
